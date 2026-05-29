@@ -6,7 +6,7 @@
 [![Pipeline](https://img.shields.io/badge/Pipeline-Automated-blue)](https://github.com/erinardo-data/chrome-ai-skills-pipeline/blob/main/prompts/master_prompt.md)
 [![Claude](https://img.shields.io/badge/Claude-Sonnet%204.6-orange)](https://www.anthropic.com/claude)
 [![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://www.microsoft.com/windows)
-[![MCP](https://img.shields.io/badge/MCP-Windows%20%7C%20Exa-green)](https://github.com/erinardo-data/chrome-ai-skills-pipeline#technical-components)
+[![MCP](https://img.shields.io/badge/MCP-Windows%20%7C%20Exa-green)](https://github.com/erinardo-data/chrome-ai-skills-pipeline#how-it-works)
 [![Docs](https://img.shields.io/badge/Output-Markdown-purple)](https://github.com/erinardo-data/chrome-ai-skills-pipeline/tree/main/output)
 [![License](https://img.shields.io/badge/License-MIT-white)](https://opensource.org/licenses/MIT)
 
@@ -138,4 +138,5 @@ chrome-ai-skills-pipeline/
 MIT - free to use, modify, and distribute with attribution.
 
 *Built in a single working session with Claude Sonnet 4.6 - May 2026*
+
 
