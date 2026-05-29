@@ -3,12 +3,12 @@
 > Intelligent technical knowledge ingestion via Claude AI + Windows APIs
 > Collects URLs from Chrome tabs, runs a system security sweep, and generates structured documentation - all from a single natural language instruction.
 
-![Pipeline](https://img.shields.io/badge/Pipeline-Automated-blue)
-![Claude](https://img.shields.io/badge/Claude-Sonnet%204.6-orange)
-![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![MCP](https://img.shields.io/badge/MCP-Windows%20%7C%20Exa-green)
-![Docs](https://img.shields.io/badge/Output-Markdown-purple)
-![License](https://img.shields.io/badge/License-MIT-white)
+[![Pipeline](https://img.shields.io/badge/Pipeline-Automated-blue)](https://github.com/erinardo-data/chrome-ai-skills-pipeline/blob/main/prompts/master_prompt.md)
+[![Claude](https://img.shields.io/badge/Claude-Sonnet%204.6-orange)](https://www.anthropic.com/claude)
+[![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://www.microsoft.com/windows)
+[![MCP](https://img.shields.io/badge/MCP-Windows%20%7C%20Exa-green)](https://github.com/erinardo-data/chrome-ai-skills-pipeline#technical-components)
+[![Docs](https://img.shields.io/badge/Output-Markdown-purple)](https://github.com/erinardo-data/chrome-ai-skills-pipeline/tree/main/output)
+[![License](https://img.shields.io/badge/License-MIT-white)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
@@ -138,3 +138,4 @@ chrome-ai-skills-pipeline/
 MIT - free to use, modify, and distribute with attribution.
 
 *Built in a single working session with Claude Sonnet 4.6 - May 2026*
+
